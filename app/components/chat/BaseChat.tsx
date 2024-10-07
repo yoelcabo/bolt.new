@@ -70,7 +70,7 @@ export const BaseChat = React.forwardRef<HTMLDivElement, BaseChatProps>(
       >
         <ClientOnly>{() => <Menu />}</ClientOnly>
         {!chatStarted && (
-          <div className="absolute bottom-6 right-6 w-80 p-4 text-sm text-bolt-elements-textSecondary bg-bolt-elements-background-depth-2 rounded-md shadow-md">
+          <div className="absolute top-6 left-6 w-96 p-6 text-base text-bolt-elements-textSecondary bg-bolt-elements-background-depth-2 rounded-lg shadow-lg">
             <p>
               {t('BoltInfo.prefix')}
               <a 
