@@ -1,9 +1,9 @@
 {
   "title": "What do you want to build?",
-  "subtitle": "Prompt, run, edit, and deploy full-stack web apps.",
+  "subtitle": "Learn coding by building full-stack web apps with AI assistance.",
   "clearHistory": "Clear History",
   "sendMessage": "Send",
-  "messagePlaceholder": "How can Bolt help you today?",
+  "messagePlaceholder": "How can codiBot help you today?",
   "startNewChat": "Start new chat",
   "yourChats": "Your Chats",
   "noPreviousConversations": "No previous conversations",
@@ -41,11 +41,10 @@
     "returnKey": "Enter",
     "forNewLine": "for a new line",
     "examplePrompts": {
-      "todoApp": "Build a todo app in React using Tailwind",
-      "astroBlog": "Build a simple blog using Astro",
-      "cookieConsent": "Create a cookie consent form using Material UI",
-      "spaceInvaders": "Make a space invaders game",
-      "centerDiv": "How do I center a div?"
+      "learnBasics": "I want to learn the basics of coding",
+      "snakeGame": "Make a snake game",
+      "simpleBlog": "Build a simple blog",
+      "codingGame": "Make a game with lots of characters where I play by coding their behaviour"
     }
   }
 }

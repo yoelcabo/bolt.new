@@ -1,9 +1,9 @@
 {
   "title": "¿Qué quieres construir?",
-  "subtitle": "Genera, ejecuta, edita y despliega aplicaciones web full-stack.",
+  "subtitle": "Aprende a programar construyendo aplicaciones web full-stack con asistencia de IA.",
   "clearHistory": "Borrar historial",
   "sendMessage": "Enviar",
-  "messagePlaceholder": "¿Cómo puede ayudarte Bolt hoy?",
+  "messagePlaceholder": "¿Cómo puede ayudarte codiBot hoy?",
   "startNewChat": "Iniciar nuevo chat",
   "yourChats": "Tus chats",
   "noPreviousConversations": "No hay conversaciones previas",
@@ -40,11 +40,10 @@
     "returnKey": "Enter",
     "forNewLine": "para una nueva línea",
     "examplePrompts": {
-      "todoApp": "Crea una aplicació de tareas en React utilizando Tailwind",
-      "astroBlog": "Crea un blog sencillo utilizando Astro",
-      "cookieConsent": "Crea un formulario de consentimiento para cookies utilizando Material UI",
-      "spaceInvaders": "Crea un juego como Space Invaders",
-      "centerDiv": "¿Cómo centro un div?"
+      "learnBasics": "Quiero aprender los fundamentos de la programación",
+      "snakeGame": "Crea un juego tipo Snake",
+      "simpleBlog": "Construiye un blog sencillo",
+      "codingGame": "Hazme un juego con muchos personajes donde juego programando su comportamiento"
     }
   }
 }

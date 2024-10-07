@@ -1,9 +1,9 @@
 {
   "title": "Què vols construir?",
-  "subtitle": "Demana, executa, edita i desplega aplicacions web full-stack.",
+  "subtitle": "Aprèn a programar construint aplicacions web full-stack amb assistència d'IA.",
   "clearHistory": "Esborrar historial",
   "sendMessage": "Enviar",
-  "messagePlaceholder": "Com pot ajudar-te el Bolt avui?",
+  "messagePlaceholder": "Com pot ajudar-te el codiBot avui?",
   "startNewChat": "Inicia un nou xat",
   "yourChats": "Els teus xats",
   "noPreviousConversations": "No hi ha converses prèvies",
@@ -41,11 +41,10 @@
     "returnKey": "Enter",
     "forNewLine": "per a una nova línia",
     "examplePrompts": {
-      "todoApp": "Crea una aplicació de tasques en React utilitzant Tailwind",
-      "astroBlog": "Crea un bloc senzill utilitzant Astro",
-      "cookieConsent": "Crea un formulari de consentiment per a cookies utilitzant Material UI",
-      "spaceInvaders": "Crea un joc d'Space Invaders",
-      "centerDiv": "Com centro un div?"
+      "learnBasics": "Vull aprendre els fonaments de la programació",
+      "snakeGame": "Crea un joc tipus Snake",
+      "simpleBlog": "Construeix un blog senzill",
+      "codingGame": "Fes-me un joc amb molts personatges on jugo programant el seu comportament"
     }
   }
 }

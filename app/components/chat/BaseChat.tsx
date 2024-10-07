@@ -53,11 +53,10 @@ export const BaseChat = React.forwardRef<HTMLDivElement, BaseChatProps>(
     const { t } = useTranslation();
     const TEXTAREA_MAX_HEIGHT = chatStarted ? 400 : 200;
     const EXAMPLE_PROMPTS = [
-      { text: t('chat.examplePrompts.todoApp') },
-      { text: t('chat.examplePrompts.astroBlog') },
-      { text: t('chat.examplePrompts.cookieConsent') },
-      { text: t('chat.examplePrompts.spaceInvaders') },
-      { text: t('chat.examplePrompts.centerDiv') },
+      { text: t('chat.examplePrompts.snakeGame') },
+      { text: t('chat.examplePrompts.simpleBlog') },
+      { text: t('chat.examplePrompts.learnBasics') },
+      { text: t('chat.examplePrompts.codingGame') },
     ];
 
     return (
