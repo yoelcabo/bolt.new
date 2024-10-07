@@ -42,8 +42,8 @@
     "examplePrompts": {
       "learnBasics": "Quiero aprender los fundamentos de la programación",
       "snakeGame": "Crea un juego tipo Snake",
-      "simpleBlog": "Construiye un blog sencillo",
-      "codingGame": "Hazme un juego con muchos personajes donde juego programando su comportamiento"
+      "simpleBlog": "Construye un blog sencillo",
+      "codingGame": "Crea un juego donde controle al personaje usando código"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "title": "Què vols construir?",
-  "subtitle": "Aprèn a programar construint aplicacions web full-stack amb assistència d'IA.",
+  "subtitle": "Aprèn a programar construint aplicacions web o jocs amb l'ajuda de la IA.",
   "clearHistory": "Esborrar historial",
   "sendMessage": "Enviar",
   "messagePlaceholder": "Com pot ajudar-te el codiBot avui?",
@@ -44,7 +44,7 @@
       "learnBasics": "Vull aprendre els fonaments de la programació",
       "snakeGame": "Crea un joc tipus Snake",
       "simpleBlog": "Construeix un blog senzill",
-      "codingGame": "Fes-me un joc amb molts personatges on jugo programant el seu comportament"
+      "codingGame": "Fes-me un joc on controli el personatge usant codi"
     }
   }
 }
