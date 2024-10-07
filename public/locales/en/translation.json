@@ -42,7 +42,7 @@
     "forNewLine": "for a new line",
     "examplePrompts": {
       "learnBasics": "I want to learn the basics of coding",
-      "snakeGame": "Make a snake game",
+      "tetrisGame": "Make a Tetris game",
       "simpleBlog": "Build a simple blog",
       "codingGame": "Create a game where I control a character using code"
     }

@@ -41,7 +41,7 @@
     "forNewLine": "para una nueva línea",
     "examplePrompts": {
       "learnBasics": "Quiero aprender los fundamentos de la programación",
-      "snakeGame": "Crea un juego tipo Snake",
+      "tetrisGame": "Crea un juego tipo Tetris",
       "simpleBlog": "Construye un blog sencillo",
       "codingGame": "Crea un juego donde controle al personaje usando código"
     }
