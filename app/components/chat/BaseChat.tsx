@@ -72,7 +72,7 @@ export const BaseChat = React.forwardRef<HTMLDivElement, BaseChatProps>(
         {!chatStarted && (
           <div className="absolute bottom-6 right-6 w-80 p-4 text-sm text-bolt-elements-textSecondary bg-bolt-elements-background-depth-2 rounded-md shadow-md">
             <p>
-              {t('codiBotInfo.prefix')}
+              {t('BoltInfo.prefix')}
               <a 
                 href="https://bolt.new" 
                 className="text-bolt-accent-primary font-semibold underline hover:text-bolt-accent-secondary transition-colors" 
@@ -81,7 +81,7 @@ export const BaseChat = React.forwardRef<HTMLDivElement, BaseChatProps>(
               >
                 bolt.new
               </a>
-              {t('codiBotInfo.middle')}
+              {t('BoltInfo.middle')}
               <a 
                 href="https://yoel.cat" 
                 className="text-bolt-accent-primary font-semibold underline hover:text-bolt-accent-secondary transition-colors" 
@@ -90,7 +90,7 @@ export const BaseChat = React.forwardRef<HTMLDivElement, BaseChatProps>(
               >
                 Yoel Cabo
               </a>
-              {t('codiBotInfo.suffix')}
+              {t('BoltInfo.suffix')}
             </p>
           </div>
         )}

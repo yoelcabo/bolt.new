@@ -3,7 +3,7 @@
   "subtitle": "Aprèn a programar construint aplicacions web o jocs amb l'ajuda de la IA.",
   "clearHistory": "Esborrar historial",
   "sendMessage": "Enviar",
-  "messagePlaceholder": "Com pot ajudar-te el codiBot avui?",
+  "messagePlaceholder": "Com pot ajudar-te el Bolt avui?",
   "startNewChat": "Inicia un nou xat",
   "yourChats": "Els teus xats",
   "noPreviousConversations": "No hi ha converses prèvies",
@@ -47,9 +47,8 @@
       "codingGame": "Fes-me un joc on controli el personatge usant codi"
     }
   },
-  "aboutCodiBot": "Sobre codiBot",
-  "codiBotInfo": {
-    "prefix": "codiBot és una bifurcació de ",
+  "BoltInfo": {
+    "prefix": "Això és una bifurcació de ",
     "middle": " a càrrec de'n ",
     "suffix": ", destinada a ensenyar a programar en català."
   }

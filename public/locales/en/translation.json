@@ -3,7 +3,7 @@
   "subtitle": "Learn coding by building full-stack web apps with AI assistance.",
   "clearHistory": "Clear History",
   "sendMessage": "Send",
-  "messagePlaceholder": "How can codiBot help you today?",
+  "messagePlaceholder": "How can Bolt help you today?",
   "startNewChat": "Start new chat",
   "yourChats": "Your Chats",
   "noPreviousConversations": "No previous conversations",
@@ -47,9 +47,9 @@
       "codingGame": "Create a game where I control a character using code"
     }
   },
-  "codiBotInfo": {
-    "prefix": "codiBot is a fork of ",
-    "middle": " made by ",
+  "BoltInfo": {
+    "prefix": "This is a fork of ",
+    "middle": " maintained by ",
     "suffix": ", targeted at teaching Catalan children how to code."
   }
 }

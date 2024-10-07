@@ -3,7 +3,7 @@
   "subtitle": "Aprende a programar construyendo aplicaciones web full-stack con asistencia de IA.",
   "clearHistory": "Borrar historial",
   "sendMessage": "Enviar",
-  "messagePlaceholder": "¿Cómo puede ayudarte codiBot hoy?",
+  "messagePlaceholder": "¿Cómo puede ayudarte Bolt hoy?",
   "startNewChat": "Iniciar nuevo chat",
   "yourChats": "Tus chats",
   "noPreviousConversations": "No hay conversaciones previas",
@@ -46,8 +46,8 @@
       "codingGame": "Crea un juego donde controle al personaje usando código"
     }
   },
-  "codiBotInfo": {
-    "prefix": "codiBot es una bifurcación de ",
+  "BoltInfo": {
+    "prefix": "Esta es una bifurcación de ",
     "middle": " hecha por ",
     "suffix": ", destinada a enseñar programación en catalán."
   }
