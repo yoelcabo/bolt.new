@@ -46,5 +46,10 @@
       "simpleBlog": "Build a simple blog",
       "codingGame": "Create a game where I control a character using code"
     }
+  },
+  "codiBotInfo": {
+    "prefix": "codiBot is a fork of ",
+    "middle": " made by ",
+    "suffix": ", targeted at teaching Catalan children how to code."
   }
 }

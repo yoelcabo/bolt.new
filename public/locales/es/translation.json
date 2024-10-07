@@ -45,5 +45,10 @@
       "simpleBlog": "Construye un blog sencillo",
       "codingGame": "Crea un juego donde controle al personaje usando código"
     }
+  },
+  "codiBotInfo": {
+    "prefix": "codiBot es una bifurcación de ",
+    "middle": " hecha por ",
+    "suffix": ", destinada a enseñar programación en catalán."
   }
 }

@@ -69,6 +69,31 @@ export const BaseChat = React.forwardRef<HTMLDivElement, BaseChatProps>(
         data-chat-visible={showChat}
       >
         <ClientOnly>{() => <Menu />}</ClientOnly>
+        {!chatStarted && (
+          <div className="absolute bottom-6 right-6 w-80 p-4 text-sm text-bolt-elements-textSecondary bg-bolt-elements-background-depth-2 rounded-md shadow-md">
+            <p>
+              {t('codiBotInfo.prefix')}
+              <a 
+                href="https://bolt.new" 
+                className="text-bolt-accent-primary font-semibold underline hover:text-bolt-accent-secondary transition-colors" 
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                bolt.new
+              </a>
+              {t('codiBotInfo.middle')}
+              <a 
+                href="https://yoel.cat" 
+                className="text-bolt-accent-primary font-semibold underline hover:text-bolt-accent-secondary transition-colors" 
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                Yoel Cabo
+              </a>
+              {t('codiBotInfo.suffix')}
+            </p>
+          </div>
+        )}
         <div ref={scrollRef} className="flex overflow-scroll w-full h-full">
           <div className={classNames(styles.Chat, 'flex flex-col flex-grow min-w-[var(--chat-min-width)] h-full')}>
             {!chatStarted && (

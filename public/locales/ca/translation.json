@@ -46,5 +46,11 @@
       "simpleBlog": "Construeix un blog senzill",
       "codingGame": "Fes-me un joc on controli el personatge usant codi"
     }
+  },
+  "aboutCodiBot": "Sobre codiBot",
+  "codiBotInfo": {
+    "prefix": "codiBot és una bifurcació de ",
+    "middle": " a càrrec de'n ",
+    "suffix": ", destinada a ensenyar a programar en català."
   }
 }
