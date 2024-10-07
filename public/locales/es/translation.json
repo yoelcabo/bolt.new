@@ -46,6 +46,14 @@
       "codingGame": "Crea un juego donde controle al personaje usando código"
     }
   },
+  "toast": {
+    "error": {
+      "generic": "Se produjo un error",
+      "failedToDeleteConversation": "No se pudo eliminar la conversación",
+      "failedToUpdateFileContent": "No se pudo actualizar el contenido del archivo",
+      "chatPersistenceUnavailable": "La persistencia del chat no está disponible"
+    }
+  },
   "BoltInfo": {
     "prefix": "Esta es una bifurcación de ",
     "middle": " hecha por ",

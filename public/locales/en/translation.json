@@ -47,6 +47,14 @@
       "codingGame": "Create a game where I control a character using code"
     }
   },
+  "toast": {
+    "error": {
+      "generic": "There was an error processing your request",
+      "failedToDeleteConversation": "Failed to delete conversation",
+      "failedToUpdateFileContent": "Failed to update file content",
+      "chatPersistenceUnavailable": "Chat persistence is unavailable"
+    }
+  },
   "BoltInfo": {
     "prefix": "This is a fork of ",
     "middle": " maintained by ",
